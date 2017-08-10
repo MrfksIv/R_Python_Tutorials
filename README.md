@@ -6,7 +6,7 @@ My notes on some basic (e.g. import data) and more advanced (e.g. Object Orienta
 ### Prerequisites
 
 Have the latest R installed (3.4.1 at the time of writing). 
-Package dependencies are available in the code - you will see these as:
+Package dependencies are explicitly shown in the code - you will see these as:
 ```
 library([package-name])
 ```
