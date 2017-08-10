@@ -1,0 +1,4 @@
+S4 and Reference Classing is no longer relevant as the much faster R6 is now available.
+S3 is still important as it explains how some of the core functionality of R works.
+
+So, S3 & R6 is the way to go.
