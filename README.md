@@ -1,4 +1,4 @@
-# R Tutorials
+# R & Python Tutorials
 
 My notes on some basic (e.g. import data) and more advanced (e.g. Object Orientation through R6 package) functionality of the statistical language R.
 
